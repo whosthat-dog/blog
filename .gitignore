@@ -11,3 +11,8 @@ Mercury.modules
 *.beams
 *.d
 *.c_date
+_site
+.DS_Store
+*.swp
+.sass-cache
+*~
